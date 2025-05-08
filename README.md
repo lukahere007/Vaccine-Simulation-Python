@@ -36,10 +36,10 @@ This repository simulates a clinical trial-like scenario to evaluate the effecti
    ```
 
 ## File Structure
-
+- `README.md` — Project overview
 - `Vaccine_response_simulation.ipynb` — Main notebook with detailed simulation and analysis  
 - `requirements.txt` — Python package dependencies  
-- `README.md` — Project overview
+
 
 ## License
 
